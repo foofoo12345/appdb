@@ -1,0 +1,22 @@
+{
+  "uid": "d1025e66",
+  "title": "Fallout 2",
+  "youtube": [
+    "P7BinqX22fs",
+    "fZwJCO-2ou8",
+    "8RIfDYdzNIk",
+    "2FRx_Rcpiks"
+  ],
+  "platforms": [
+    {
+      "platform": "win"
+    },
+    {
+      "platform": "mac"
+    },
+    {
+      "platform": "steam",
+      "app_id": "38410"
+    }
+  ]
+}
